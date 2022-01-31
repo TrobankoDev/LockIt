@@ -1,15 +1,15 @@
-package me.trobanko.chestlocker;
+package me.trobanko.lockit;
 
 import me.mattstudios.mf.base.CommandManager;
-import me.trobanko.chestlocker.commands.LockCommand;
-import me.trobanko.chestlocker.listeners.BlockBreakListener;
-import me.trobanko.chestlocker.listeners.PlayerInteractListener;
-import me.trobanko.chestlocker.utils.MongoUtils;
+import me.trobanko.lockit.commands.LockCommand;
+import me.trobanko.lockit.listeners.BlockBreakListener;
+import me.trobanko.lockit.listeners.PlayerInteractListener;
+import me.trobanko.lockit.utils.MongoUtils;
 import org.bukkit.plugin.java.JavaPlugin;
 
 
 
-public final class ChestLocker extends JavaPlugin {
+public final class LockIt extends JavaPlugin {
 
     @Override
     public void onEnable() {

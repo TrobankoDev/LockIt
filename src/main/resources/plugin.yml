@@ -1,9 +1,9 @@
-name: ChestLocker
+name: LockIt
 version: '${project.version}'
-main: me.trobanko.chestlocker.ChestLocker
+main: me.trobanko.lockit.LockIt
 api-version: 1.18
 authors: [ Trobanko ]
 description: A chest locking plugin
 commands:
-  locker:
+  lockit:
     description: Lock chests

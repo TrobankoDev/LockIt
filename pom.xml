@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.trobanko</groupId>
-    <artifactId>ChestLocker</artifactId>
+    <artifactId>LockIt</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>ChestLocker</name>
+    <name>LockIt</name>
 
     <description>A chest locking plugin</description>
     <properties>

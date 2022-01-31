@@ -1,4 +1,4 @@
-package me.trobanko.chestlocker.utils;
+package me.trobanko.lockit.utils;
 
 import org.bukkit.ChatColor;
 
